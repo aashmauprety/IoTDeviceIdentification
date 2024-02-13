@@ -6,6 +6,7 @@ Download Dataset:
 1. Download the dataset from the UNSW website and combine all CSV files into a single file named combined.csv.
 
 2. Run Feature Extraction Script:
+   
        python feature_extraction.py combined.csv FeatureData
        Execute the following command in your terminal or command prompt:
        
