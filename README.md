@@ -1,14 +1,15 @@
 # IoTDeviceIdentification
-**Instructions:**
+**Instructions:** 
+
 Download Dataset:
 
-Download the dataset from the UNSW website and combine all CSV files into a single file named combined.csv.
+1. Download the dataset from the UNSW website and combine all CSV files into a single file named combined.csv.
 
-Run Feature Extraction Script:
+2. Run Feature Extraction Script:
 
-Execute the following command in your terminal or command prompt:
+       Execute the following command in your terminal or command prompt:
 
-'python feature_extraction.py combined.csv FeatureData'
+    `python feature_extraction.py combined.csv FeatureData`
 
 This script will extract features from the combined CSV file and store them in a folder named FeatureData.
 
