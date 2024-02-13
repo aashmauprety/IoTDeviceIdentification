@@ -1,5 +1,5 @@
 # IoTDeviceIdentification
-** Instructions: **
+**Instructions:**
 Download Dataset:
 
 Download the dataset from the UNSW website and combine all CSV files into a single file named combined.csv.
