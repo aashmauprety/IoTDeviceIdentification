@@ -7,7 +7,8 @@ Download Dataset:
 
 2. Run Feature Extraction Script:
 
-       Execute the following command in your terminal or command prompt:  python feature_extraction.py combined.csv FeatureData
+ Execute the following command in your terminal or command prompt:
+       python feature_extraction.py combined.csv FeatureData
 
 
 This script will extract features from the combined CSV file and store them in a folder named FeatureData.
