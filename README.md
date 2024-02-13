@@ -8,7 +8,7 @@ Download Dataset:
 2. Run Feature Extraction Script:
    
        python feature_extraction.py combined.csv FeatureData
-       Execute the following command in your terminal or command prompt:
+      
        
 
 
