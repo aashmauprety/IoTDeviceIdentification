@@ -23,3 +23,6 @@ combined.csv should be the combined form of all CSV data from the UNSW website.
 
 
 The extracted features for each device are listed in separate CSV files within the FeatureData folder.
+
+
+**CE and FE Folder has best result and code for Cross Entropy Loss and Focal Loss**
